@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello world! 👋
 
-<!--
-**FlanzoniRussi/FlanzoniRussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fabiano Lanzoni 🤓
 
-Here are some ideas to get you started:
+I'm A Software Analyst and Developer, that has been working as a Front-End developer since 2014.  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+### 🧠 "Não importa o quão devagar você vá, desde que você não pare." 🚀
+
+- 📍 From SP living in Bragança Paulista
+- 💻 Front-End Developer at [SCS](https://www.scsbp.com.br/)
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianolanzonidev/)](https://www.linkedin.com/in/fabianolanzonidev) [![Gmail Badge](https://img.shields.io/badge/-flanzoni.russi@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flanzoni.russi@gmail.com)](mailto:flanzoni.russi@gmail.com)
