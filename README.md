@@ -2,9 +2,11 @@
 
 My name is Fabiano Lanzoni 🤓
 
-I'm A Software Analyst and Developer, that has been working as a Front-End developer since 2014.  💻
+I am a fullstack developer with over 9 years of experience in technology, holding a degree in Systems Analysis and Development. My journey in software development began in 2014, building complete and scalable solutions for various industries.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+Currently, since March 2023, I have been working as a Tech Manager, leading technology teams, defining technical strategies, and contributing to delivering high-quality products that make a real impact.
+
+In my daily work, I am always eager to learn, share knowledge, and write code that makes a difference. Feel free to explore my repositories and collaborate on projects!
 
 ### 🧠 "Não importa o quão devagar você vá, desde que você não pare." 🚀
 
