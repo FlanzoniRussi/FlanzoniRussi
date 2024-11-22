@@ -9,7 +9,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### 🧠 "Não importa o quão devagar você vá, desde que você não pare." 🚀
 
 - 📍 From SP living in Bragança Paulista
-- 💻 Front-End Developer at [Saúde iD](https://www.saudeid.com.br/)
+- 💻 Engineer Manager at [Seedz](https://seedz.ag/)
 
 Reach me out 👇🏼
 
